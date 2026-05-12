@@ -39,13 +39,13 @@
 
 ---
 
-## 📊 Project: QuickMoney
-저의 관심사인 **자산 관리의 투명성**을 위해 직접 개발하고 있는 프로젝트입니다.
+## 📊 Featured Project: Oracle Cloud Connector
+오라클 클라우드(OCI) 인프라 관리와 데이터베이스 통합을 위한 자동화 솔루션입니다.
 
-> **"개인 데이터는 안전하게, 관리는 스마트하게"**
-- [QuickMoney (sanghaki) 바로가기](https://github.com/nerin81-netizen/sanghaki)
-- **주요 기능**: 브라우저 로컬 저장소 기반 가계부, 직관적인 자산 통계, 반복 거래 자동화.
-- **핵심 가치**: 사용자의 프라이버시를 최우선으로 하는 로컬 데이터 중심의 관리 시스템.
+> **"복잡한 클라우드 관리도 코드 한 줄로 스마트하게"**
+- [Oracle Cloud Connector 바로가기](https://github.com/nerin81-netizen/oracle-cloud-connector-automation)
+- **주요 기능**: OCI 인스턴스 자동 생성(Always Free 자원 확보), 멀티 서버 Oracle DB 통합 브릿지, 환경 변수 기반의 안전한 보안 관리.
+- **핵심 가치**: 반복적인 인프라 작업을 자동화하여 개발 생산성을 극대화합니다.
 
 ---
 
@@ -53,7 +53,7 @@
 제약 산업의 미래, AI 자동화, 혹은 새로운 비즈니스 아이디어에 대해 소통할 준비가 되어 있습니다!
 
 - **Email**: yusanghak@naver.com
-- **Interests**: #AI_Automation #Digital_Pharma #Entrepreneurship #FinTech #Investing
+- **Interests**: #AI_Automation #Digital_Pharma #Entrepreneurship #Infrastructure #Investing
 
 ---
 <p align="center">
